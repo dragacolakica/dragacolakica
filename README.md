@@ -1,6 +1,6 @@
 ## hi, I'm Dragica 👋
 
-Software engineer from Zagreb with 10 years of experience. I work mostly in .NET and like to understand how things work one layer deeper than necessary.
+Software engineer from Zagreb with 10 years of experience. I work mostly in .NET and like to understand how things work.
 
 `C#` `.NET 8` `ASP.NET Core` `Blazor` `Svelte` `SQLite` `SQL Server`
 
