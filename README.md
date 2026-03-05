@@ -21,10 +21,6 @@ I like the parts of a stack most people treat as given — persistence layers, r
 
 `C#` `.NET 8` `ASP.NET Core` `Blazor` `Svelte` `TypeScript` `SQLite` `SQL Server`
 
-**Testing & reliability**
-
-`NUnit` `Moq` `Polly` `Circuit Breaker` `WAL`
-
 ---
 
 **Things I've built**
