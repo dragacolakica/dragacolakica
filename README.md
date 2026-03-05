@@ -38,14 +38,3 @@ I like the parts of a stack most people treat as given — persistence layers, r
 | ✈️ **[FlightSearch](https://github.com/dragacolakica/FlightSearch)** | Low-fare flight lookup by IATA code via the Amadeus API |
 | 📒 **[PhoneBook](https://github.com/dragacolakica/PhoneBook)** | Contact manager with tag-based search and full CRUD — ASP.NET Core 2 + AngularJS |
 
----
-
-**Currently thinking about**
-
-Storage engines · Distributed systems · Compiler
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dragacolakica&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
-</div>
