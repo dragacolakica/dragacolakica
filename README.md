@@ -1,6 +1,10 @@
-## hi, I'm Dragica 👋
+## Hi, I'm Dragica. 👋
 
 Software engineer from Zagreb with 10 years of experience. I work mostly in .NET and like to understand how things work.
+
+📍 Zagreb, Croatia · Open to remote opportunities ·
+Contact me on [LinkedIn](https://www.linkedin.com/in/dragica-pecik)
+
 
 `C#` `.NET 8` `ASP.NET Core` `Blazor` `Svelte` `SQLite` `SQL Server`
 
